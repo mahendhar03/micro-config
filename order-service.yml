@@ -1,0 +1,7 @@
+order:
+  service:
+    message: welcome to order service
+#custom properties
+customer-eureka-url: ${protocal}customer-service
+restaurent-eureka-url: ${protocal}restaurent-service
+protocal: http://

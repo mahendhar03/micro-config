@@ -4,7 +4,7 @@ order:
 #custom properties
 customer-eureka-url: ${protocal}customer-service
 restaurent-eureka-url: ${protocal}restaurent-service
-protocal: https://
+protocal: http://
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/orders
